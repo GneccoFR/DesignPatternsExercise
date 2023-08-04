@@ -1,0 +1,6 @@
+﻿DesignPatternsExercise/Library
+DesignPatternsExercise/Logs
+DesignPatternsExercise/UserSettings
+*.csproj
+DesignPatternsExercise/.vsconfig
+*.sln
